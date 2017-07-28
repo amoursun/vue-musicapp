@@ -160,9 +160,9 @@
 ### 安装与运行
 
 ```
-git clone https://github.com/songhaoreact/vue-music.git
+git clone https://github.com/songhaoreact/vue-musicapp.git
 
-cd vue-music
+cd vue-musicapp
 
 npm install
 
