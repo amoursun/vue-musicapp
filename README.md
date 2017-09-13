@@ -160,7 +160,7 @@
 ### 安装与运行
 
 ```
-git clone https://github.com/songhaoreact/vue-musicapp.git
+git clone https://github.com/ganyanlins/vue-musicapp.git
 
 cd vue-musicapp
 
